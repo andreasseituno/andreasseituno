@@ -2,8 +2,9 @@
 
 </hr>
 
-(https://github-readme-stats.vercel.app/api?username=shinokada&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andreasseituno&theme=radical)
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreasseituno&layout=compact)
 
 - 🔭 Eu estou atualmente trabalhando: JBS
 - 🌱 Eu estou atualmente aprendendo: JavaScript / Html / Css / Sql / C#
