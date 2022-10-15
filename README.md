@@ -1,4 +1,7 @@
 <h2 style="text-align: center">Olá 👋, eu sou André Asseituno</h2>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
 <p>- 🔭 Eu estou atualmente trabalhando: JBS</p>
 <p>- 🌱 Eu estou atualmente aprendendo: JavaScript / Html / Css / Sql / C#</p>
 <div style="text-align: center">
@@ -14,31 +17,15 @@
   />
 </div>
 <h4>Linguagens e Ferramentas que já usei:</h4>
-<code
-  ><img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-    alt="html5"
-    width="40"
-    height="40"
-    style="margin: 5px"
-/></code>
-<code
-  ><img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-    alt="css3"
-    width="40"
-    height="40"
-    style="margin: 5px"
-/></code>
-<code
-  ><img
-    height="35"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
-    style="margin: 5px"
-/></code>
-<code
-  ><img
-    height="35"
-    src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/visual-studio-code.png"
-    style="margin: 5px"
-/></code>
+
+<div style="display: inline_block">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height= "50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height= "50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height= "50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height= "50px"/>
+  </br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height= "50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height= "50px"/>     
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height= "50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height= "50px"/> 
+</div>
