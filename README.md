@@ -4,12 +4,8 @@
        
 <p>- Eu estou atualmente trabalhando: JBS</p>
 <p>- Eu estou atualmente aprendendo: Mensageria / CiberSegurança /Assincronismo / Arquitetura de Sistemas</p>
-<br />
 
-<p>Aqui, eu publico somente projetos Web (Html, Css, JavaScript), mas já realizei projetos com:</p>
-<p>- Formulários C# e SqlServer</p>
-<p>- Aplicativos em Android Studio (Java)</p>
-<p>- Análise de Dados em Python</p>
+<br />
 
 <div style="text-align: center">
    <img
@@ -24,12 +20,19 @@
    />
 </div>
 
+<p>Aqui, eu publico somente projetos Web (Html, Css, JavaScript), mas já realizei projetos com:</p>
+<p>- Formulários C# e SqlServer</p>
+<p>- Aplicativos em Android Studio (Java)</p>
+<p>- Análise de Dados em Python</p>
+
+<br />
+
 <h4>Linguagens e Ferramentas que já utilizei no meu curso técnico:</h4>
 
 <div style="display: inline_block">
    <p>1° Ano</p>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50px"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg height="50px"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50px"/>   
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50px"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50px"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="50px"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50px"/>
