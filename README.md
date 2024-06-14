@@ -3,7 +3,16 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
        
 <p>- Eu estou atualmente trabalhando: JBS</p>
+<p>- Eu estou atualmente estudando: Instituto Germinare (Germinare Tech)</p>
 <p>- Eu estou atualmente aprendendo: Mensageria / CiberSegurança /Assincronismo / Arquitetura de Sistemas</p>
+
+<p>Projetos mais interessantes:</p>
+<p>- <a href="https://andreasseituno.github.io/Germinatech_Comandos/Pagina_Principal/index.html" target="_blank">Germinatech_Comandos</a> 
+</br> Site de Todos os Comandos de Programação que anotei na Germinatech </p>
+<p>- <a href="https://andreasseituno.github.io/Calculadora_JS/index.html" target="_blank">Calculadora_JS</a> 
+</br> Calculadora feita com JavaScript </p>
+<p>- <a href="https://andreasseituno.github.io/Site_Germinatech/index.html" target="_blank">Site_Germinatech</a>
+</br> Desafio didádico- Página da Germinatech sobre Html e Css</p>
 
 <br />
 
