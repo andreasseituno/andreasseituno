@@ -7,7 +7,7 @@
 <p>- Eu estou atualmente aprendendo: Mensageria / CiberSegurança /Assincronismo / Arquitetura de Sistemas</p>
 
 <p>Projetos mais interessantes:</p>
-<p>- <a href="https://andreasseituno.github.io/Germinatech_Comandos/Pagina_Principal/index.html" target="_blank">Germinatech_Comandos</a> 
+<p>- <a href="https://andreasseituno.github.io/Germinatech_Comandos/Inicio/" target="_blank">Germinatech_Comandos</a> 
 </br> Site de Todos os Comandos de Programação que anotei na Germinatech </p>
 <p>- <a href="https://andreasseituno.github.io/Calculadora_JS/index.html" target="_blank">Calculadora_JS</a> 
 </br> Calculadora feita com JavaScript </p>
